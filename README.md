@@ -1,4 +1,4 @@
-# Random Links
+### Random Links
 1. https://github.com/sh377c0d3/Payloads
 2. https://github.com/leebaird/discover
 3. https://github.com/AlexisAhmed/BugBountyToolkit
@@ -16,5 +16,5 @@
 15. https://github.com/vavkamil/awesome-vulnerable-apps
 16. https://github.com/danielmiessler/SecLists
 
-# Repos for bug hunting
+### Repos for bug hunting
 1. https://github.com/NagliNagli/BountyTricks
