@@ -23,3 +23,5 @@
 2. https://github.com/NagliNagli/BountyTricks
 ### Vulnerable Apps
 1. https://github.com/vavkamil/awesome-vulnerable-apps
+### Make WebPages
+1. https://github.com/jekyll/jekyll
