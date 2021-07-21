@@ -39,6 +39,9 @@
 1. https://github.com/frizb/HackingWithCurl
 2. https://github.com/NagliNagli/BountyTricks
 3. Learn ffuf - http://ffuf.me/
+4. Great OWASP Top 10 Referece - https://github.com/OWASP/wstg/tree/master/document
+5. Markdown tutorial from github - 
+https://lab.github.com/githubtraining/communicating-using-markdown
 
 ### Vulnerable Apps
 1. https://github.com/vavkamil/awesome-vulnerable-apps
