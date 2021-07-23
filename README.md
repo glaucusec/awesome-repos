@@ -49,3 +49,6 @@ https://lab.github.com/githubtraining/communicating-using-markdown
 ### Twitter Threads 
 1. How to use Autorepeater - https://twitter.com/ngkogkos/status/1350498063555719175?s=19
 2. Cheatsheets and Checklists - https://twitter.com/e11i0t_4lders0n/status/1403046199091863554?s=19
+
+### Burp Extensions
+1. jslinkfinder - https://portswigger.net/bappstore/0e61c786db0c4ac787a08c4516d52ccf
