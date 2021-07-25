@@ -1,6 +1,5 @@
 ### Books and Notes
-1. 
-https://gowsundar.gitbook.io/book-of-bugbounty-tips/intigrity-tips
+1. https://gowsundar.gitbook.io/book-of-bugbounty-tips/intigrity-tips
 
 ### Blogs
 1. https://netsec.expert
