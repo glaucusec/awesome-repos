@@ -1,8 +1,8 @@
-## Books and Notes
+### Books and Notes
 1. 
 https://gowsundar.gitbook.io/book-of-bugbounty-tips/intigrity-tips
 
-## Blogs
+### Blogs
 1. https://netsec.expert
 2. https://blog.sqreen.com/
 3. https://portswigger.net/daily-swig/javascript

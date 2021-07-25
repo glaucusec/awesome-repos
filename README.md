@@ -1,5 +1,8 @@
 # Repo Links for Bug Bounty
 
+### Gitbooks and Personal Blogs.
+https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
+
 ### Payloads
 1. https://github.com/sh377c0d3/Payloads
 2. https://github.com/danielmiessler/SecLists
