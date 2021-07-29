@@ -1,5 +1,5 @@
 # Repo Links for Bug Bounty
-
+@glaucusec
 ### Gitbooks and Personal Blogs.
 https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 
