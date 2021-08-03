@@ -38,9 +38,12 @@ https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 11. Another all-in-one recon tool - https://github.com/six2dez/reconftw
 12. WhatWaf - WebApp firewall scanner - https://github.com/Ekultek/WhatWaf
 
-### Automation
+### Automation / Organize
+#### Automation
 1. https://github.com/leebaird/discover
 2. Bug Bounty Oneliners - https://github.com/dwisiswant0/awesome-oneliner-bugbounty
+#### Organize
+1. https://honoki.net/2020/10/08/introducing-bbrf-yet-another-bug-bounty-reconnaissance-framework/
 
 ### References, Tricks and Tutorials.
 1. https://github.com/frizb/HackingWithCurl
