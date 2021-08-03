@@ -59,3 +59,7 @@ https://lab.github.com/githubtraining/communicating-using-markdown
 
 ### Burp Extensions
 1. jslinkfinder - https://portswigger.net/bappstore/0e61c786db0c4ac787a08c4516d52ccf
+
+### Stuck? Need motivation?
+1. https://www.hackerone.com/blog/What-To-Do-When-You-Are-Stuck-Hacking
+2. https://www.mindtools.com/pages/article/smart-goals.htm
