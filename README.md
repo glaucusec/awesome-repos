@@ -1,5 +1,8 @@
 # Repo Links for Bug Bounty
 username - @glaucusec
+#### Get Started
+1. https://0xprial.com/how-to-get-into-bug-bounties-part-01/
+2. https://rhynorater.github.io/Beginners-Resources
 ### Gitbooks and Personal Blogs.
 https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 
