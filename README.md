@@ -55,7 +55,8 @@ https://lab.github.com/githubtraining/communicating-using-markdown
 
 ### Vulnerable Apps
 1. https://github.com/vavkamil/awesome-vulnerable-apps
-
+### Labs, Games
+1. https://hackxor.net/
 ### Twitter Threads 
 1. How to use Autorepeater - https://twitter.com/ngkogkos/status/1350498063555719175?s=19
 2. Cheatsheets and Checklists - https://twitter.com/e11i0t_4lders0n/status/1403046199091863554?s=19
