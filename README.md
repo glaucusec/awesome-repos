@@ -52,7 +52,7 @@ https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 4. Great OWASP Top 10 Referece - https://github.com/OWASP/wstg/tree/master/document
 5. Markdown tutorial from github - 
 https://lab.github.com/githubtraining/communicating-using-markdown
-
+6. https://github.com/NagliNagli/BountyTricks
 ### Vulnerable Apps
 1. https://github.com/vavkamil/awesome-vulnerable-apps
 ### Labs, Games
