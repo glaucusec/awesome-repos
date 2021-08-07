@@ -66,3 +66,4 @@ https://lab.github.com/githubtraining/communicating-using-markdown
 ### Stuck? Need motivation?
 1. https://www.hackerone.com/blog/What-To-Do-When-You-Are-Stuck-Hacking
 2. https://www.mindtools.com/pages/article/smart-goals.htm
+3. https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher
