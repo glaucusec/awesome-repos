@@ -12,6 +12,7 @@ https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 3. https://github.com/swisskyrepo/PayloadsAllTheThings
 4. Super wordlists - https://github.com/fuzz-security/SuperWordlist
 5. Some files for bruteforcing certain things - https://github.com/random-robbie/bruteforce-lists
+6. CommonSpeak wordlists - https://github.com/pentester-io/commonspeak
 ### Projects
 1. https://github.com/kurogai/100-redteam-projects
 ### Tools
