@@ -39,6 +39,7 @@ https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 11. Another all-in-one recon tool - https://github.com/six2dez/reconftw
 12. WhatWaf - WebApp firewall scanner - https://github.com/Ekultek/WhatWaf
 13. 403 Bypasses - https://github.com/Dheerajmadhukar/4-ZERO-3
+14. Find websites with .git files - https://github.com/internetwache/GitTools
 ### Automation / Organize
 #### Automation
 1. https://github.com/leebaird/discover
