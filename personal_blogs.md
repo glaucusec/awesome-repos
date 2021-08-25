@@ -18,6 +18,7 @@
 13. https://sakurity.com/blog 
 14. https://labs.detectify.com/
 15. https://ngailong.wordpress.com/
+16. https://d0nut.medium.com
 #### Others
 1. https://daehee.com
 2. https://www.zapstiko.com/ 🔴
