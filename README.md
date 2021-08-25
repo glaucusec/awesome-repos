@@ -55,13 +55,16 @@ https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 5. Markdown tutorial from github - 
 https://lab.github.com/githubtraining/communicating-using-markdown
 6. https://github.com/NagliNagli/BountyTricks
+6. https://github.com/Traceableai/31-days-of-pentesting
 ### Vulnerable Apps
 1. https://github.com/vavkamil/awesome-vulnerable-apps
 ### Labs, Games
 1. https://hackxor.net/
+2. https://codelatte.net/labs/
 ### Twitter Threads 
 1. How to use Autorepeater - https://twitter.com/ngkogkos/status/1350498063555719175?s=19
 2. Cheatsheets and Checklists - https://twitter.com/e11i0t_4lders0n/status/1403046199091863554?s=19
+3. Burpsuite tips and tricks - https://twitter.com/codingo_/status/1394276284889370625?s=19
 
 ### Burp Extensions
 1. jslinkfinder - https://portswigger.net/bappstore/0e61c786db0c4ac787a08c4516d52ccf

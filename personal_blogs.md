@@ -1,7 +1,6 @@
 
 ### Books and Notes
 1. https://gowsundar.gitbook.io/book-of-bugbounty-tips/intigrity-tips
-
 ### Blogs
 #### Top
 1. https://blog.0xffff.info/
@@ -21,16 +20,17 @@
 15. https://ngailong.wordpress.com/
 #### Others
 1. https://daehee.com
-2. https://philippeharewood.com/(fb)
-3. https://respectxss.blogspot.com/
-4. https://atom.hackstreetboys.ph/
-5. https://stephensclafani.com/
-6. https://sasi2103.blogspot.com/
-7. https://blog.yappare.com/
-8. https://ibreak.software/
-9. https://www.deeplook.cl/
-10. http://www.websecuritylog.com/
-11. https://andresriancho.com/blog/
-12. https://omespino.com/
-13. https://buer.haus/
-14. https://0xprial.com/blog
+2. https://www.zapstiko.com/ 🔴
+3. https://philippeharewood.com/(fb)
+4. https://respectxss.blogspot.com/
+5. https://atom.hackstreetboys.ph/
+6. https://stephensclafani.com/
+7. https://sasi2103.blogspot.com/
+8. https://blog.yappare.com/
+9. https://ibreak.software/
+10. https://www.deeplook.cl/
+11. http://www.websecuritylog.com/
+12. https://andresriancho.com/blog/
+13. https://omespino.com/
+14. https://buer.haus/
+15. https://0xprial.com/blog
