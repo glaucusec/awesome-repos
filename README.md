@@ -5,7 +5,6 @@ username - @glaucusec
 2. https://rhynorater.github.io/Beginners-Resources
 ### Gitbooks and Personal Blogs.
 https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
-
 ### Payloads
 1. https://github.com/sh377c0d3/Payloads
 2. https://github.com/danielmiessler/SecLists
@@ -40,13 +39,13 @@ https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 12. WhatWaf - WebApp firewall scanner - https://github.com/Ekultek/WhatWaf
 13. 403 Bypasses - https://github.com/Dheerajmadhukar/4-ZERO-3
 14. Find websites with .git files - https://github.com/internetwache/GitTools
+15. Remove duplicate URLs - https://github.com/s0md3v/uro 🔴
 ### Automation / Organize
 #### Automation
 1. https://github.com/leebaird/discover
 2. Bug Bounty Oneliners - https://github.com/dwisiswant0/awesome-oneliner-bugbounty
 #### Organize
 1. https://honoki.net/2020/10/08/introducing-bbrf-yet-another-bug-bounty-reconnaissance-framework/
-
 ### References, Tricks and Tutorials.
 1. https://github.com/frizb/HackingWithCurl
 2. https://github.com/NagliNagli/BountyTricks
@@ -56,6 +55,7 @@ https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 https://lab.github.com/githubtraining/communicating-using-markdown
 6. https://github.com/NagliNagli/BountyTricks
 6. https://github.com/Traceableai/31-days-of-pentesting
+7. BB Mind-Maps - https://github.com/imran-parray/Mind-Maps **
 ### Vulnerable Apps
 1. https://github.com/vavkamil/awesome-vulnerable-apps
 ### Labs, Games
@@ -66,10 +66,8 @@ https://lab.github.com/githubtraining/communicating-using-markdown
 1. How to use Autorepeater - https://twitter.com/ngkogkos/status/1350498063555719175?s=19
 2. Cheatsheets and Checklists - https://twitter.com/e11i0t_4lders0n/status/1403046199091863554?s=19
 3. Burpsuite tips and tricks - https://twitter.com/codingo_/status/1394276284889370625?s=19
-
 ### Burp Extensions
 1. jslinkfinder - https://portswigger.net/bappstore/0e61c786db0c4ac787a08c4516d52ccf
-
 ### Stuck? Need motivation?
 1. https://www.hackerone.com/blog/What-To-Do-When-You-Are-Stuck-Hacking
 2. https://www.mindtools.com/pages/article/smart-goals.htm
