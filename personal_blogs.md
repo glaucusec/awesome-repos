@@ -19,6 +19,7 @@
 14. https://labs.detectify.com/
 15. https://ngailong.wordpress.com/
 16. https://d0nut.medium.com
+17. https://s0md3v.github.io/
 #### Others
 1. https://daehee.com
 2. https://www.zapstiko.com/ 🔴
