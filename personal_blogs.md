@@ -3,7 +3,6 @@
 1. https://gowsundar.gitbook.io/book-of-bugbounty-tips/intigrity-tips
 ### Blogs
 #### Top
-#. https://danielmiessler.com/
 1. https://blog.0xffff.info/
 2. https://netsec.expert/
 3. https://portswigger.net/daily-swig/javascript
@@ -21,6 +20,7 @@
 15. https://ngailong.wordpress.com/
 16. https://d0nut.medium.com
 17. https://s0md3v.github.io/
+18.  https://danielmiessler.com/
 #### Others
 1. https://daehee.com
 2. https://www.zapstiko.com/ 🔴
