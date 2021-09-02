@@ -40,6 +40,7 @@ https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 13. 403 Bypasses - https://github.com/Dheerajmadhukar/4-ZERO-3
 14. Find websites with .git files - https://github.com/internetwache/GitTools
 15. Remove duplicate URLs - https://github.com/s0md3v/uro 🔴
+16. https://github.com/detectify/page-fetch
 ### Automation / Organize
 #### Automation
 1. https://github.com/leebaird/discover
