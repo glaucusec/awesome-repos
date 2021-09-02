@@ -3,6 +3,7 @@
 1. https://gowsundar.gitbook.io/book-of-bugbounty-tips/intigrity-tips
 ### Blogs
 #### Top
+#. https://danielmiessler.com/
 1. https://blog.0xffff.info/
 2. https://netsec.expert/
 3. https://portswigger.net/daily-swig/javascript
