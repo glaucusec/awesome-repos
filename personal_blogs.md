@@ -20,7 +20,8 @@
 15. https://ngailong.wordpress.com/
 16. https://d0nut.medium.com
 17. https://s0md3v.github.io/
-18.  https://danielmiessler.com/
+18. https://danielmiessler.com/
+19. https://securityflow.io
 #### Others
 1. https://daehee.com
 2. https://www.zapstiko.com/ 🔴
