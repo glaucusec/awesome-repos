@@ -23,6 +23,7 @@
 18. https://danielmiessler.com/
 19. https://securityflow.io
 20. https://blog.it-securityguard.com/
+21. https://robertchen.cc/blog
 #### Others
 1. https://daehee.com
 2. https://www.zapstiko.com/ 🔴
