@@ -40,3 +40,25 @@
 13. https://omespino.com/
 14. https://buer.haus/
 15. https://0xprial.com/blog
+#### ---
+sakurity.com/blog - by Egor Homakov
+respectxss.blogspot.in - by Ashar Javed
+labs.detectify.com - by Frans Rosén
+cliffordtrigo.info - by Clifford Trigo
+stephensclafani.com - by Stephen Sclafani
+sasi2103.blogspot.co.il - by Sasi Levi
+pwnsecurity.net - by Shashank
+breaksec.com - by Nir Goldshlager
+pwndizzle.blogspot.in - by Alex Davies
+c0rni3sm.blogspot.in - by yappare
+exploit.co.il/blog - by Shai rod
+ibreak.software - by Riyaz Ahemed Walikar
+panchocosil.blogspot.in - by Francisco Correa
+breakingmesh.blogspot.in - by Sahil Sehgal
+websecresearch.com - by Ajay Singh Negi
+securitylearn.net - by Satish Bommisetty
+secinfinity.net - by Prakash Sharma
+websecuritylog.com - by jitendra jaiswal
+medium.com/@ajdumanhug - by Allan Jay Dumanhug
+Web Hacking 101 - by Peter Yaworski
+
