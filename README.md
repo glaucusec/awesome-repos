@@ -91,3 +91,4 @@ https://lab.github.com/githubtraining/communicating-using-markdown
 2. https://www.mindtools.com/pages/article/smart-goals.htm
 3. https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher
 4. https://fs.blog/blog/
+5. sort of - https://microsoftedge.github.io/edgevr/posts/bug-bounty-hunter-to-working-at-microsoft/
