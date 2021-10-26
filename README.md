@@ -92,3 +92,6 @@ https://lab.github.com/githubtraining/communicating-using-markdown
 3. https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher
 4. https://fs.blog/blog/
 5. sort of - https://microsoftedge.github.io/edgevr/posts/bug-bounty-hunter-to-working-at-microsoft/
+6. Asking good questions - https://jvns.ca/blog/good-questions/
+7. https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/
+8. https://jvns.ca/blog/answer-questions-well/
