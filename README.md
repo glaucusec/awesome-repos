@@ -49,6 +49,7 @@ https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 14. Find websites with .git files - https://github.com/internetwache/GitTools
 15. Remove duplicate URLs - https://github.com/s0md3v/uro 🔴
 16. https://github.com/detectify/page-fetch
+https://bishopfox.com/blog/pen-testing-tools-2021
 
 ### Automation / Organize
 
