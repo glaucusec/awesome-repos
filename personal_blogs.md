@@ -41,6 +41,7 @@
 13. https://omespino.com/
 14. https://buer.haus/
 15. https://0xprial.com/blog
+16. https://xvnpw.github.io/
 #### ---
 sakurity.com/blog - by Egor Homakov
 respectxss.blogspot.in - by Ashar Javed
