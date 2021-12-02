@@ -55,6 +55,7 @@ https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
 #### Automation
 1. https://github.com/leebaird/discover
 2. Bug Bounty Oneliners - https://github.com/dwisiswant0/awesome-oneliner-bugbounty
+3. https://labs.detectify.com/2021/11/30/hakluke-creating-the-perfect-bug-bounty-automation/
 
 #### Organize
 1. https://honoki.net/2020/10/08/introducing-bbrf-yet-another-bug-bounty-reconnaissance-framework/
