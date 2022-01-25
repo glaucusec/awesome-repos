@@ -25,6 +25,7 @@
 20. https://blog.it-securityguard.com/
 21. https://robertchen.cc/blog
 22. https://jvns.ca/ 🔴
+23. https://www.netmeister.org
 #### Others
 1. https://daehee.com
 2. https://www.zapstiko.com/ 🔴
