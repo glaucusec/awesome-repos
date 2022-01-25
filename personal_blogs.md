@@ -27,6 +27,7 @@
 22. https://jvns.ca/ 🔴
 23. https://www.netmeister.org
 #### Others
+0. https://sector035.nl/(OSINT)
 1. https://daehee.com
 2. https://www.zapstiko.com/ 🔴
 3. https://philippeharewood.com/(fb)
