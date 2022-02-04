@@ -26,6 +26,7 @@
 21. https://robertchen.cc/blog
 22. https://jvns.ca/ 🔴
 23. https://www.netmeister.org
+24. https://blog.0xffff.info/all-posts/
 #### Others
 0. https://sector035.nl/(OSINT)
 1. https://daehee.com
