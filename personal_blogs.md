@@ -27,6 +27,7 @@
 22. https://jvns.ca/ 🔴
 23. https://www.netmeister.org
 24. https://blog.0xffff.info/all-posts/
+25. https://gusralph.info/
 #### Others
 0. https://sector035.nl/(OSINT)
 1. https://daehee.com
