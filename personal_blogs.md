@@ -29,6 +29,8 @@
 24. https://blog.0xffff.info/all-posts/
 25. https://gusralph.info/
 26. https://www.rcesecurity.com/
+27. https://galnagli.com/blog/
+28. https://www.jomar.fr
 #### Others
 0. https://sector035.nl/(OSINT)
 1. https://daehee.com
@@ -47,7 +49,6 @@
 14. https://buer.haus/
 15. https://0xprial.com/blog
 16. https://xvnpw.github.io/
-17. https://www.jomar.fr
 #### ---
 sakurity.com/blog - by Egor Homakov
 respectxss.blogspot.in - by Ashar Javed
