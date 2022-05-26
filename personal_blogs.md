@@ -32,6 +32,8 @@
 27. https://galnagli.com/blog/
 28. https://www.jomar.fr
 29. https://www.yassineaboukir.com/
+30. https://security.lauritz-holtmann.de/
+31. https://blog.bi.tk/
 #### Others
 0. https://sector035.nl/(OSINT)
 1. https://daehee.com
