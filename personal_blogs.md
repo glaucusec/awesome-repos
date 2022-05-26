@@ -31,6 +31,7 @@
 26. https://www.rcesecurity.com/
 27. https://galnagli.com/blog/
 28. https://www.jomar.fr
+29. https://www.yassineaboukir.com/
 #### Others
 0. https://sector035.nl/(OSINT)
 1. https://daehee.com
