@@ -101,3 +101,4 @@ https://lab.github.com/githubtraining/communicating-using-markdown
 9. 'infosec_au' code testing tips - https://twitter.com/infosec_au/status/1512604377001127941?t=cIMNYxw1vNj5HpPR5QapTA&s=19
 10. Luck VS HardWork - https://jamesclear.com/luck-vs-hard-work
 11. How to Create Luck - https://www.swyx.io/create-luck
+12. https://www.philvenables.com/post/career-advice-and-professional-development
