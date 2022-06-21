@@ -35,6 +35,9 @@
 30. https://security.lauritz-holtmann.de/
 31. https://blog.bi.tk/
 32. https://spaceraccoon.dev/
+33. https://tomorrowisnew.com
+34. https://rotem-bar.com/
+35. https://danielv.com.br/
 #### Others
 0. https://sector035.nl/(OSINT)
 1. https://daehee.com
@@ -54,6 +57,7 @@
 15. https://0xprial.com/blog
 16. https://xvnpw.github.io/
 17. https://secret.club/
+18. https://shreyapohekar.com/
 #### ---
 - sakurity.com/blog - by Egor Homakov
 - respectxss.blogspot.in - by Ashar Javed
