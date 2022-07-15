@@ -69,11 +69,10 @@ Useful twitter threads from various researchers and companies
 3. [How to Make Your Goals Achievable](https://www.mindtools.com/pages/article/smart-goals.htm)
 4. [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher) by [James Kettle](https://twitter.com/albinowax)
 5. [Explore Farnam Street Articles](https://fs.blog/blog/) - Help you master the best of what other people have already figured out.
-6. [Bug bounty hunter to working at Microsoft
-7. ](https://microsoftedge.github.io/edgevr/posts/bug-bounty-hunter-to-working-at-microsoft/)
-8. [Asking good questions](https://jvns.ca/blog/good-questions/)
-9. [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) by [Julia Evans](https://twitter.com/b0rk)
-10. [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/) by [Julia Evans](https://twitter.com/b0rk)
-11. [Luck VS HardWork](https://jamesclear.com/luck-vs-hard-work)
-12. [How to Create Luck](https://www.swyx.io/create-luck)
-13. [Career Advice and Professional Development](https://www.philvenables.com/post/career-advice-and-professional-development)
+6. [Bug bounty hunter to working at Microsoft ](https://microsoftedge.github.io/edgevr/posts/bug-bounty-hunter-to-working-at-microsoft/)
+7. [Asking good questions](https://jvns.ca/blog/good-questions/)
+8. [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) by [Julia Evans](https://twitter.com/b0rk)
+9. [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/) by [Julia Evans](https://twitter.com/b0rk)
+10. [Luck VS HardWork](https://jamesclear.com/luck-vs-hard-work)
+11. [How to Create Luck](https://www.swyx.io/create-luck)
+12. [Career Advice and Professional Development](https://www.philvenables.com/post/career-advice-and-professional-development)
