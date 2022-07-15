@@ -1,104 +1,79 @@
-# Repo Links for Bug Bounty
-
 @glaucusec
 
-#### Get Started
-
-1. https://0xprial.com/how-to-get-into-bug-bounties-part-01/
-2. https://rhynorater.github.io/Beginners-Resources
-
-### Gitbooks and Personal Blogs.
-https://github.com/glaucusec/awesome-repos/blob/main/personal_blogs.md
-
+### Getting Started
+All you need to kickstart bug hunting.
+1. [How to get into bug bounties](https://0xprial.com/how-to-get-into-bug-bounties-part-01/) by [0xprial](https://twitter.com/0xPrial)
+2. [Resources for beginners](https://rhynorater.github.io/Beginners-Resources) by [rhynorater](https://twitter.com/rhynorater)
+3. [Roadmap](https://securityflow.io/roadmap/) - an Excellent roadmap designed for all levels. Junior, Medior, and Senior. You can follow the suggested topics to visualize the obstacles in front of you that you should bypass to become a successful Security Researcher. by [HolyBugx](https://twitter.com/HolyBugx)
 ### Payloads
-1. https://github.com/sh377c0d3/Payloads
-2. https://github.com/danielmiessler/SecLists
-3. https://github.com/swisskyrepo/PayloadsAllTheThings
+Some interesting payloads available public, which you can use for various scenarios
+1. [sh377c0d3/Payloads](https://github.com/sh377c0d3/Payloads) - Contains payloads based on various bug types, by [sh377c0d3](https://twitter.com/sh377c0d3)
+2. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) -  SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. by 
+3. [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security.
 4. Super wordlists - https://github.com/fuzz-security/SuperWordlist
-5. Some files for bruteforcing certain things - https://github.com/random-robbie/bruteforce-lists
-6. CommonSpeak wordlists - https://github.com/pentester-io/commonspeak
-7. recon_data - https://chaos.projectdiscovery.io/#/
-
-### Projects
-1. https://github.com/kurogai/100-redteam-projects
+5. [random-robbie/bruteforce-lists]( https://github.com/random-robbie/bruteforce-lists) - Some files for bruteforcing certain things
+6. [CommonSpeak wordlists](https://github.com/pentester-io/commonspeak) - Wordlist generated from a tool that leverages public datasets from Google's BigQuery platform.
+7. [OneListForAll](https://github.com/six2dez/OneListForAll) -  Project to generate huge wordlists for web fuzzing, by [Six2dez1](https://twitter.com/Six2dez1)
 
 ### Tools
-1. https://github.com/hakluke/hakrawler 🔴
-2. https://github.com/IFGHou/wapiti
-3. https://github.com/s0md3v/AwesomeXSS
-4. https://github.com/m4ll0k/Bug-Bounty-Toolz
-5. https://github.com/gwen001/pentest-tools
-6. https://github.com/AlexisAhmed/BugBountyToolkit
-7. https://github.com/lc/gau 🔴
-8. https://github.com/s0md3v/Arjun
-9. https://github.com/d3mondev/puredns
-10. Recon framework and does end to end recon - https://github.com/yogeshojha/rengine
-11. Recon Management tool - https://blog.intigriti.com/2021/06/22/hacker-tools-bbrf-organizing-your-recon/
-12. Urldedupe (pass a list of urls and get unique urls) - https://github.com/ameenmaali/urldedupe
-13. All-in-one tool from @manas - https://github.com/ManasHarsh/Cobra/blob/main/Cobra.sh
-14. Nuclie from prjdiscovery - https://github.com/projectdiscovery/nuclei
-15. A proxy tool that can replace burp and helps in building tools - https://mitmproxy.org/
-16. A site for dns details - https://dnsdumpster.com 
-17. Online Subdomain scanner - https://subdomainfinder.c99.nl/overview
-18. A high performance tcp scanner - https://github.com/resyncgg/armada
-18. 403Fuzzer - https://www.kitploit.com/2021/06/403fuzzer-fuzz-403401ing-endpoints-for.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+PentestTools+(PenTest+Tools)&m=1
-19. Security header check - https://github.com/santoru/shcheck
-11. Another all-in-one recon tool - https://github.com/six2dez/reconftw
-12. WhatWaf - WebApp firewall scanner - https://github.com/Ekultek/WhatWaf
-13. 403 Bypasses - https://github.com/Dheerajmadhukar/4-ZERO-3
-14. Find websites with .git files - https://github.com/internetwache/GitTools
-15. Remove duplicate URLs - https://github.com/s0md3v/uro 🔴
-16. https://github.com/detectify/page-fetch
-https://bishopfox.com/blog/pen-testing-tools-2021
-17. https://github.com/j3ssie/osmedeus/
+List of interesting tools available for shooting.
 
-### Automation / Organize
+1. [Wapiti](https://github.com/IFGHou/wapiti) -  Wapiti is a web application security auditor.
+2. [Bug-Bounty-Toolz](https://github.com/m4ll0k/Bug-Bounty-Toolz) - A repo contains personal scripts and tools by [m4ll0k](https://twitter.com/m4ll0k)
+3. [puredns](https://github.com/d3mondev/puredns) - fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
+4. [Rengine](https://github.com/yogeshojha/rengine) - Recon framework and does end to end recon
+5. [BBRF](https://blog.intigriti.com/2021/06/22/hacker-tools-bbrf-organizing-your-recon/) - A tool to organize your recon information in a centralized way.
+6. [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. 
+7. [mimproxy](https://mitmproxy.org/) - `mitmproxy` is a free and open source interactive HTTPS proxy. A proxy tool that can replace burp and helps in building tools
+8. [Armanda](https://github.com/resyncgg/armada) -  A high performance TCP [Reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities by [six2dez](https://twitter.com/six2dez1)
+9. [WhatWaf](https://github.com/Ekultek/WhatWaf) -  an advanced firewall detection tool who's goal is to give you the idea of "There's a WAF?"
+10. [GitTools](https://github.com/internetwache/GitTools) - Find websites with .git files
+11. [page-fetch](https://github.com/detectify/page-fetch) - Fetch web pages using headless Chrome, storing all fetched resources including JavaScript files. Run arbitrary JavaScript on many web pages and see the returned values 
 
-#### Automation
-1. https://github.com/leebaird/discover
-2. Bug Bounty Oneliners - https://github.com/dwisiswant0/awesome-oneliner-bugbounty
-3. https://labs.detectify.com/2021/11/30/hakluke-creating-the-perfect-bug-bounty-automation/
+### Automation
+Some tools and scripts which can help automate various phases of security testing.
 
-#### Organize
-1. https://honoki.net/2020/10/08/introducing-bbrf-yet-another-bug-bounty-reconnaissance-framework/
+1. [discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and creating malicious payloads using Metasploit.
+2. [Bug Bounty Oneliners](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips. 
+3. [Hakluke: Creating the Perfect Bug Bounty Automation](https://labs.detectify.com/2021/11/30/hakluke-creating-the-perfect-bug-bounty-automation/) by  [Hakluke](https://twitter.com/hakluke/)
+4. [pentest-tools](https://github.com/gwen001/pentest-tools) - A collection of tools by [gwendallecoguic](https://twitter.com/gwendallecoguic)
+5. [Rengine](https://github.com/yogeshojha/rengine) - Recon framework and does end to end recon
+6. [BBRF](https://blog.intigriti.com/2021/06/22/hacker-tools-bbrf-organizing-your-recon/) - A tool to organize your recon information in a centralized way.
+
+### Projects
+Collection of project ideas which can help improve programming skills by completing real projects.
+
+1. [100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - A list of projects for pentesters and network managers
 
 ### References, Tricks and Tutorials.
-1. https://github.com/frizb/HackingWithCurl
-2. https://github.com/NagliNagli/BountyTricks
-3. Learn ffuf - http://ffuf.me/
-4. Great OWASP Top 10 Referece - https://github.com/OWASP/wstg/tree/master/document
-5. Markdown tutorial from github - 
-https://lab.github.com/githubtraining/communicating-using-markdown
-6. https://github.com/NagliNagli/BountyTricks
-6. https://github.com/Traceableai/31-days-of-pentesting
-7. BB Mind-Maps - https://github.com/imran-parray/Mind-Maps **
+1. [Hackikng with CURL](https://github.com/frizb/HackingWithCurl) - A list of examples and references of hacking with Bash and the Curl command 
+4. [Great OWASP Top 10 Referece](https://github.com/OWASP/wstg/tree/master/document)
+7. [BugBounty Mind-Maps](https://github.com/imran-parray/Mind-Maps)
 
 ### Vulnerable Apps
-1. https://github.com/vavkamil/awesome-vulnerable-apps
-
-### Labs, Games
-1. https://hackxor.net/
-2. https://codelatte.net/labs/
-3. https://application.security/free/owasp-top-10
+Vulnerable apps which can tested for practicing the vulnerabilities learned.
+1. [Awesome vulnerable apps](https://github.com/vavkamil/awesome-vulnerable-apps) - A curated list of various vulnerable by design applications
+2. [Gin and Juice Shop](https://portswigger.net/blog/gin-and-juice-shop-put-your-scanner-to-the-test) by [Portswigger](https://portswigger.net/)
 
 ### Twitter Threads 
-1. How to use Autorepeater - https://twitter.com/ngkogkos/status/1350498063555719175?s=19
-2. Cheatsheets and Checklists - https://twitter.com/e11i0t_4lders0n/status/1403046199091863554?s=19
-3. Burpsuite tips and tricks - https://twitter.com/codingo_/status/1394276284889370625?s=19
+Useful twitter threads from various researchers and companies
+1. [How to use Autorepeater](https://twitter.com/ngkogkos/status/1350498063555719175?s=19)
+2. [Cheatsheets and Checklists](https://twitter.com/e11i0t_4lders0n/status/1403046199091863554?s=19)
+3. [Burpsuite tips and tricks](https://twitter.com/codingo_/status/1394276284889370625?s=19)
+4. [Source code review Tips](https://twitter.com/infosec_au/status/1512604377001127941?t=cIMNYxw1vNj5HpPR5QapTA&s=19) by [infosec_au](https://twitter.com/infosec_au)
 
-### Burp Extensions
-1. jslinkfinder - https://portswigger.net/bappstore/0e61c786db0c4ac787a08c4516d52ccf
 
-### Non tech | Stuck?
-1. https://www.hackerone.com/blog/What-To-Do-When-You-Are-Stuck-Hacking
-2. https://www.mindtools.com/pages/article/smart-goals.htm
-3. https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher
-4. https://fs.blog/blog/
-5. sort of - https://microsoftedge.github.io/edgevr/posts/bug-bounty-hunter-to-working-at-microsoft/
-6. Asking good questions - https://jvns.ca/blog/good-questions/
-7. https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/
-8. https://jvns.ca/blog/answer-questions-well/
-9. 'infosec_au' code testing tips - https://twitter.com/infosec_au/status/1512604377001127941?t=cIMNYxw1vNj5HpPR5QapTA&s=19
-10. Luck VS HardWork - https://jamesclear.com/luck-vs-hard-work
-11. How to Create Luck - https://www.swyx.io/create-luck
-12. https://www.philvenables.com/post/career-advice-and-professional-development
+### Misc
+1. [The 10 rules to be successful in your bug bounty career ](https://webs3c.com/t/the-10-rules-to-be-successful-in-your-bug-bounty-career/123) by [arl_rose](https://twitter.com/Arl_rose)
+2. [What To Do When You're Stuck Hacking](https://www.hackerone.com/blog/What-To-Do-When-You-Are-Stuck-Hacking)
+3. [How to Make Your Goals Achievable](https://www.mindtools.com/pages/article/smart-goals.htm)
+4. [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher) by [James Kettle](https://twitter.com/albinowax)
+5. [Explore Farnam Street Articles](https://fs.blog/blog/) - Help you master the best of what other people have already figured out.
+6. [Bug bounty hunter to working at Microsoft
+7. ](https://microsoftedge.github.io/edgevr/posts/bug-bounty-hunter-to-working-at-microsoft/)
+8. [Asking good questions](https://jvns.ca/blog/good-questions/)
+9. [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) by [Julia Evans](https://twitter.com/b0rk)
+10. [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/) by [Julia Evans](https://twitter.com/b0rk)
+11. [Luck VS HardWork](https://jamesclear.com/luck-vs-hard-work)
+12. [How to Create Luck](https://www.swyx.io/create-luck)
+13. [Career Advice and Professional Development](https://www.philvenables.com/post/career-advice-and-professional-development)
