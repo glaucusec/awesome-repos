@@ -5,6 +5,8 @@ All you need to kickstart bug hunting.
 1. [How to get into bug bounties](https://0xprial.com/how-to-get-into-bug-bounties-part-01/) by [0xprial](https://twitter.com/0xPrial)
 2. [Resources for beginners](https://rhynorater.github.io/Beginners-Resources) by [rhynorater](https://twitter.com/rhynorater)
 3. [Roadmap](https://securityflow.io/roadmap/) - an Excellent roadmap designed for all levels. Junior, Medior, and Senior. You can follow the suggested topics to visualize the obstacles in front of you that you should bypass to become a successful Security Researcher. by [HolyBugx](https://twitter.com/HolyBugx)
+4. [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher) by [James Kettle](https://twitter.com/albinowax)
+
 ### Payloads
 Some interesting payloads available public, which you can use for various scenarios
 1. [sh377c0d3/Payloads](https://github.com/sh377c0d3/Payloads) - Contains payloads based on various bug types, by [sh377c0d3](https://twitter.com/sh377c0d3)
@@ -62,17 +64,19 @@ Useful twitter threads from various researchers and companies
 3. [Burpsuite tips and tricks](https://twitter.com/codingo_/status/1394276284889370625?s=19)
 4. [Source code review Tips](https://twitter.com/infosec_au/status/1512604377001127941?t=cIMNYxw1vNj5HpPR5QapTA&s=19) by [infosec_au](https://twitter.com/infosec_au)
 
+### Mental Health
+1. [Bug Bounties and Mental Health](https://medium.com/@NathOnSecurity/bug-bounties-and-mental-health-40662b2e497b)
 
 ### Misc
 1. [The 10 rules to be successful in your bug bounty career ](https://webs3c.com/t/the-10-rules-to-be-successful-in-your-bug-bounty-career/123) by [arl_rose](https://twitter.com/Arl_rose)
 2. [What To Do When You're Stuck Hacking](https://www.hackerone.com/blog/What-To-Do-When-You-Are-Stuck-Hacking)
 3. [How to Make Your Goals Achievable](https://www.mindtools.com/pages/article/smart-goals.htm)
-4. [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher) by [James Kettle](https://twitter.com/albinowax)
-5. [Explore Farnam Street Articles](https://fs.blog/blog/) - Help you master the best of what other people have already figured out.
-6. [Bug bounty hunter to working at Microsoft ](https://microsoftedge.github.io/edgevr/posts/bug-bounty-hunter-to-working-at-microsoft/)
-7. [Asking good questions](https://jvns.ca/blog/good-questions/)
-8. [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) by [Julia Evans](https://twitter.com/b0rk)
-9. [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/) by [Julia Evans](https://twitter.com/b0rk)
-10. [Luck VS HardWork](https://jamesclear.com/luck-vs-hard-work)
-11. [How to Create Luck](https://www.swyx.io/create-luck)
-12. [Career Advice and Professional Development](https://www.philvenables.com/post/career-advice-and-professional-development)
+4. [Explore Farnam Street Articles](https://fs.blog/blog/) - Help you master the best of what other people have already figured out.
+5. [Bug bounty hunter to working at Microsoft ](https://microsoftedge.github.io/edgevr/posts/bug-bounty-hunter-to-working-at-microsoft/)
+6. [Asking good questions](https://jvns.ca/blog/good-questions/)
+7. [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) by [Julia Evans](https://twitter.com/b0rk)
+8. [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/) by [Julia Evans](https://twitter.com/b0rk)
+9. [Luck VS HardWork](https://jamesclear.com/luck-vs-hard-work)
+10. [How to Create Luck](https://www.swyx.io/create-luck)
+11. [Career Advice and Professional Development](https://www.philvenables.com/post/career-advice-and-professional-development)
+12. [From Researcher to Engineer and Beyond](https://whitton.io/articles/from-researcher-to-engineer-and-beyond/)
