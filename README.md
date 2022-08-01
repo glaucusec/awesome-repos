@@ -64,6 +64,7 @@ Useful twitter threads from various researchers and companies
 2. [Cheatsheets and Checklists](https://twitter.com/e11i0t_4lders0n/status/1403046199091863554?s=19)
 3. [Burpsuite tips and tricks](https://twitter.com/codingo_/status/1394276284889370625?s=19)
 4. [Source code review Tips](https://twitter.com/infosec_au/status/1512604377001127941?t=cIMNYxw1vNj5HpPR5QapTA&s=19) by [infosec_au](https://twitter.com/infosec_au)
+5. [Maximize your luck of finding a bug](https://twitter.com/rez0__/status/1553371598085840898?t=p4PMlHPtoH2E0jbPWHsi0g&s=19)
 
 ### Mental Health
 1. [Bug Bounties and Mental Health](https://medium.com/@NathOnSecurity/bug-bounties-and-mental-health-40662b2e497b)
