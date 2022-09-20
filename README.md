@@ -19,7 +19,7 @@ Some interesting payloads available public, which you can use for various scenar
 7. [OneListForAll](https://github.com/six2dez/OneListForAll) -  Project to generate huge wordlists for web fuzzing, by [Six2dez1](https://twitter.com/Six2dez1)
 
 ### Tools
-List of interesting tools available for shooting.
+List of interesting tools available for shooting. Also [here](https://github.com/stars/glaucusec/lists/interesting-tools) is the `github list` containing all the interesting tools I have come across
 
 1. [Wapiti](https://github.com/IFGHou/wapiti) -  Wapiti is a web application security auditor.
 2. [Bug-Bounty-Toolz](https://github.com/m4ll0k/Bug-Bounty-Toolz) - A repo contains personal scripts and tools by [m4ll0k](https://twitter.com/m4ll0k)
@@ -69,6 +69,10 @@ Useful twitter threads from various researchers and companies
 ### Mental Health
 1. [Bug Bounties and Mental Health](https://medium.com/@NathOnSecurity/bug-bounties-and-mental-health-40662b2e497b)
 
+### Onward & Upward
+1. [How to turn security research into profit: a CL.0 case study](https://portswigger.net/research/how-to-turn-security-research-into-profit)
+2. [From Researcher to Engineer and Beyond](https://whitton.io/articles/from-researcher-to-engineer-and-beyond/)
+
 ### Misc
 1. [The 10 rules to be successful in your bug bounty career ](https://webs3c.com/t/the-10-rules-to-be-successful-in-your-bug-bounty-career/123) by [arl_rose](https://twitter.com/Arl_rose)
 2. [What To Do When You're Stuck Hacking](https://www.hackerone.com/blog/What-To-Do-When-You-Are-Stuck-Hacking)
@@ -81,4 +85,3 @@ Useful twitter threads from various researchers and companies
 9. [Luck VS HardWork](https://jamesclear.com/luck-vs-hard-work)
 10. [How to Create Luck](https://www.swyx.io/create-luck)
 11. [Career Advice and Professional Development](https://www.philvenables.com/post/career-advice-and-professional-development)
-12. [From Researcher to Engineer and Beyond](https://whitton.io/articles/from-researcher-to-engineer-and-beyond/)
