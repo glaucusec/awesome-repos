@@ -2,14 +2,15 @@
 
 ### Getting Started
 All you need to kickstart bug hunting.
-1. [How to get into bug bounties](https://0xprial.com/how-to-get-into-bug-bounties-part-01/) by [0xprial](https://twitter.com/0xPrial)
-2. [Resources for beginners](https://rhynorater.github.io/Beginners-Resources) by [rhynorater](https://twitter.com/rhynorater)
-3. [Roadmap](https://securityflow.io/roadmap/) - an Excellent roadmap designed for all levels. Junior, Medior, and Senior. You can follow the suggested topics to visualize the obstacles in front of you that you should bypass to become a successful Security Researcher. by [HolyBugx](https://twitter.com/HolyBugx)
-4. [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher) by [James Kettle](https://twitter.com/albinowax)
-5. [A Graduate’s Thoughts: How to Get Started in Information Security and Cyber Security](https://medium.com/heck-the-packet/a-graduates-thoughts-how-to-get-started-in-information-security-and-cyber-security-d01a1efaed0f)
-6. [Tip's from a hunter who got his first bounty - A must read for every beginner](https://twitter.com/sshbounty/status/1569246801710006272?s=20&t=-SydvYKsLEzGEEWIdhhfOg) by [rahmetu](https://twitter.com/sshbounty) 
-7. [Reflecting on 2 Years of Bug Bounty](https://h1pmnh.github.io/post/2022-sep-2-years-bug-bounty/?utm_source=newsletter&utm_medium=email&utm_campaign=bug_bytes_177_hackers_descend_on_ahmedabad_the_hardest_ctf_and_tales_of_easy_p1s&utm_term=2022-10-12) by [pmnh](https://twitter.com/pmnh_)
-8. [Prerequisite knowledge before starting to learn about web vulns](https://twitter.com/rhynorater/status/1588200181132042240) by [Justin](https://twitter.com/Rhynorater)
+1. [So, you want to get into bug bounties?](https://shubs.io/so-you-want-to-get-into-bug-bounties/) by [infosec_au](https://twitter.com/infosec_au)
+2. [How to get into bug bounties](https://0xprial.com/how-to-get-into-bug-bounties-part-01/) by [0xprial](https://twitter.com/0xPrial)
+3. [Resources for beginners](https://rhynorater.github.io/Beginners-Resources) by [rhynorater](https://twitter.com/rhynorater)
+4. [Roadmap](https://securityflow.io/roadmap/) - an Excellent roadmap designed for all levels. Junior, Medior, and Senior. You can follow the suggested topics to visualize the obstacles in front of you that you should bypass to become a successful Security Researcher. by [HolyBugx](https://twitter.com/HolyBugx)
+5. [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher) by [James Kettle](https://twitter.com/albinowax)
+6. [A Graduate’s Thoughts: How to Get Started in Information Security and Cyber Security](https://medium.com/heck-the-packet/a-graduates-thoughts-how-to-get-started-in-information-security-and-cyber-security-d01a1efaed0f)
+7. [Tip's from a hunter who got his first bounty - A must read for every beginner](https://twitter.com/sshbounty/status/1569246801710006272?s=20&t=-SydvYKsLEzGEEWIdhhfOg) by [rahmetu](https://twitter.com/sshbounty) 
+8. [Reflecting on 2 Years of Bug Bounty](https://h1pmnh.github.io/post/2022-sep-2-years-bug-bounty/?utm_source=newsletter&utm_medium=email&utm_campaign=bug_bytes_177_hackers_descend_on_ahmedabad_the_hardest_ctf_and_tales_of_easy_p1s&utm_term=2022-10-12) by [pmnh](https://twitter.com/pmnh_)
+9. [Prerequisite knowledge before starting to learn about web vulns](https://twitter.com/rhynorater/status/1588200181132042240) by [Justin](https://twitter.com/Rhynorater)
 ### Payloads
 Some interesting payloads available public, which you can use for various scenarios
 1. [sh377c0d3/Payloads](https://github.com/sh377c0d3/Payloads) - Contains payloads based on various bug types, by [sh377c0d3](https://twitter.com/sh377c0d3)
