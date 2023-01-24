@@ -71,7 +71,7 @@ Useful twitter threads from various researchers and companies
 6. [10 Common Mistakes to avoid in bugbounty](https://twitter.com/0xManan/status/1613505603858747398?ref=the-infosec-newsletter) by [Manan](https://twitter.com/0xManan)
 ### Mental Health
 1. [Bug Bounties and Mental Health](https://medium.com/@NathOnSecurity/bug-bounties-and-mental-health-40662b2e497b)
-
+2. [Things to do—and avoid doing—when contacting and working with a mentor](https://twitter.com/danielmiessler/status/1616200314478276608) by [Daniel Miessler](https://twitter.com/DanielMiessler)
 ### Onward & Upward
 1. [How to turn security research into profit: a CL.0 case study](https://portswigger.net/research/how-to-turn-security-research-into-profit)
 2. [From Researcher to Engineer and Beyond](https://whitton.io/articles/from-researcher-to-engineer-and-beyond/)
