@@ -14,6 +14,7 @@ All you need to kickstart bug hunting.
 1. [Tip's from a hunter who got his first bounty - A must read for every beginner](https://twitter.com/sshbounty/status/1569246801710006272?s=20&t=-SydvYKsLEzGEEWIdhhfOg) by [rahmetu](https://twitter.com/sshbounty)
 1. [Reflecting on 2 Years of Bug Bounty](https://h1pmnh.github.io/post/2022-sep-2-years-bug-bounty/?utm_source=newsletter&utm_medium=email&utm_campaign=bug_bytes_177_hackers_descend_on_ahmedabad_the_hardest_ctf_and_tales_of_easy_p1s&utm_term=2022-10-12) by [pmnh](https://twitter.com/pmnh_)
 1. [Prerequisite knowledge before starting to learn about web vulns](https://twitter.com/rhynorater/status/1588200181132042240) by [Justin](https://twitter.com/Rhynorater)
+1. [Technical tips after completing 1 year in bug bounty](https://x.com/jusxing/status/1949860504580632979) by [jusxing](https://x.com/jusxing)
 
 ### Payloads
 
